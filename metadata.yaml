@@ -1,0 +1,30 @@
+_repo: Laululoi-Aunukselazil-b-Lauluettavie-da-saneldavie-heimokanzan-laululoi-da-runoloi-Aunuksen-k__74497
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Härkönen, Iivo
+    alias: Harkonen, Iivo
+    birthdate: 1882
+    deathdate: 1941
+    gutenberg_agent_id: '50693'
+    url: http://www.gutenberg.org/2009/agents/50693
+    wikipedia: https://fi.wikipedia.org/wiki/Iivo_H%C3%A4rk%C3%B6nen
+description: ''
+gutenberg_issued: '2024-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74497'
+language: fi
+pgterms:marc905: 20240922091035hrknen
+pgterms:marc906: '1921'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aPorvoo :$bWSOY, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Laululoi Aunukselazil : $b Lauluettavie da saneldavie heimokanzan laululoi
+  da runoloi Aunuksen kielel'
+url: http://www.gutenberg.org/ebooks/74497
