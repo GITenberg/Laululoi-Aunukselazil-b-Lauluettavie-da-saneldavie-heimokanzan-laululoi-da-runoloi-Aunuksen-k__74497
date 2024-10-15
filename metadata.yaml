@@ -1,5 +1,8 @@
 _repo: Laululoi-Aunukselazil-b-Lauluettavie-da-saneldavie-heimokanzan-laululoi-da-runoloi-Aunuksen-k__74497
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Härkönen, Iivo
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50693
     wikipedia: https://fi.wikipedia.org/wiki/Iivo_H%C3%A4rk%C3%B6nen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74497#Laululoi-Aunukselazil-b-Lauluettavie-da-saneldavie-heimokanzan-laululoi-da-runoloi-Aunuksen-k_
 gutenberg_issued: '2024-09-30'
 gutenberg_type: Text
 identifiers:
